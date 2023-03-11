@@ -1,6 +1,7 @@
 # sosial-media-links
 
-![Video Demo Sosial Media Links]()
+## Preview Sosial Media Links
+https://user-images.githubusercontent.com/107094136/224466477-c20e89e4-2957-4557-8f46-c8ce45058faf.mp4
 
 ## en_EN
 What is social media links? Social media links are external links on your website that lead to your social media pages.
